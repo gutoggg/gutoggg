@@ -1,4 +1,4 @@
-### Hi there, i'm Jorge!  <sub>or Guto</sub> 👋
+### Hi there, i'm Jorge!👋  <sub>or Guto</sub> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jorge-augusto-moraes-320567161/)](https://www.linkedin.com/in/jorge-augusto-moraes-320567161/)<br><br>
 
