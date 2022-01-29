@@ -10,12 +10,12 @@ Right now, in 2022, im participating of a programm called Desenvolve, that give 
 
 * **Languages**
 [![CSS Badge](https://img.shields.io/badge/Lua-F7DF1E?color=darkblue&style=&logo=Lua&logoColor=white&link=https://www.lua.org/)]((https://www.lua.org))
-- 🌱 I’m currently learning [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* I’m currently learning [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=javascript&logoColor=black&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=&logo=html5&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/orphaned/Web/Guide/HTML/HTML5/)](https://developer.mozilla.org/pt-BR/docs/orphaned/Web/Guide/HTML/HTML5/)
   [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
   [![React Badge](https://img.shields.io/badge/React-20232A?style=&logo=react&logoColor=61DAFB&link=https://reactjs.org/)](https://reactjs.org/)
 
-- ⚡ Fun fact: I can drink a lot of water in a short time. ¯\_(ツ)_/¯
+* Fun fact: I can drink a lot of water in a short time. ¯\_(ツ)_/¯
 <!--
 **gutoggg/gutoggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
