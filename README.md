@@ -1,6 +1,6 @@
 ### Hi there, i'm Jorge!👋  <sub>or Guto</sub> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jorge-augusto-moraes-320567161/)](https://www.linkedin.com/in/jorge-augusto-moraes-320567161/)<br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jorgeaugustooliveira/)<br><br>
 
 **I am Brazilian, graduated in Mathematics at the Federal University of Pelotas, born in Ubatuba/SP, but I currently live in Viamão/RS.<br><br>**
 
